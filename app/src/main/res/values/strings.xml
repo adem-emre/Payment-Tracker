@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PaymentTracker</string>
+    <string-array name="period_types">
+        <item>Periyot</item>
+        <item>Haftalık</item>
+        <item>Aylık</item>
+        <item>Yıllık</item>
+    </string-array>
+</resources>
